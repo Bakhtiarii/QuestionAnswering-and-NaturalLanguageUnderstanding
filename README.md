@@ -1,2 +1,2 @@
-# Question-Answering-and-Natural-Language-Understanding
+# QuestionAnswering-and-NaturalLanguageUnderstanding
 Natural Language Processing - UT EE - Spring 2022 
